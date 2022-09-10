@@ -1,0 +1,2 @@
+Team members are moved between teams on a fairly regular basis depending on the current project being develop by our organization and keeping track of who belongs to what team can be difficult for our development manager at times.
+The development manager has asked to develop a basic SPA where he is able to use the application to allocate team members to their relevant teams and can use the application to keep track of the teams and team members.
